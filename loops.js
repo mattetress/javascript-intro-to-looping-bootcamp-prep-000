@@ -29,4 +29,3 @@ do {
   incrementVariable();
 } while (array.length > 0 && incrementVariable());
 }
-doWhileLoop();
